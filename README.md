@@ -4,7 +4,7 @@
 -  Email: iambharathchandra@icloud.com
 -  LinkedIn profile: <a href="https://www.linkedin.com/in/bharathchandra29/"> Bharath Chandra </a>
 
-[!My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath2&hide=contribs,prs)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath2&hide=contribs,prs)
 
 
 <!--
