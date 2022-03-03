@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Bharath Chandra
 
 -  I'm currently pursuing masters in robotics at the University of Maryland, College Park.
 -  Email: iambharathchandra@icloud.com
@@ -6,7 +6,6 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath2&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath2)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Bharath2/Bharath2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
