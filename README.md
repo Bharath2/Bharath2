@@ -1,4 +1,4 @@
-## Hi!  I'm Bharath Chandra
+## Hi😄 I'm Bharath Chandra
 
 -  I'm currently pursuing masters in robotics at the University of Maryland, College Park.
 -  Email: iambharathchandra@icloud.com
