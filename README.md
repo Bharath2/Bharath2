@@ -1,7 +1,7 @@
 ## 😄 I'm Bharath Chandra
 
 -  I'm currently pursuing masters in robotics at the University of Maryland, College Park.
--  Email: iambharathchandra@icloud.com  || LinkedIn profile: <a href="https://www.linkedin.com/in/bharathchandra29/"> Bharath Chandra </a>
+-  Email: iambharathchandra@icloud.com  || <a href="https://www.linkedin.com/in/bharathchandra29/"> LinkedIn profile </a>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath2&hide=contribs,prs&hide_rank=True)
 
