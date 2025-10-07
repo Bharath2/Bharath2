@@ -4,7 +4,7 @@
 - iambharathchandra@icloud.com
 - <a href="https://www.linkedin.com/in/bharathchandra02"> LinkedIn : bharathchandra02 </a>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath2&hide=contribs,prs&hide_rank=True)
+![My GitHub Stats](https://github-readme-stats-git-master-bharath-irigireddys-projects.vercel.app/api?username=Bharath2&hide=contribs,prs&hide_rank=True)
 
 <!--
 **Bharath2/Bharath2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
