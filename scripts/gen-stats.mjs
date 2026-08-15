@@ -126,6 +126,12 @@ ${lines}
 </svg>
 `;
 
+// Written every run whether or not the stats moved, so each run produces a
+// commit. That records when the card was last refreshed, and the activity
+// keeps GitHub from auto-disabling the schedule after 60 idle days.
+const stamp = new Date().toISOString().replace("T", " ").slice(0, 16);
+
 const { writeFile } = await import("node:fs/promises");
 await writeFile("stats.svg", svg);
+await writeFile("LAST_UPDATED.md", `Stats last updated: ${stamp} UTC\n`);
 console.log(`stats.svg written: ${stars} stars across ${user.repositories.totalCount} repos`);
