@@ -94,10 +94,11 @@ const lines = rows
     const y = HEADER + i * ROW_HEIGHT;
     const { color, path } = ICONS[icon];
     const paint = color ? `fill="${color}"` : `class="icon"`;
-    // Icon box is 16px tall; -12 from the text baseline centres it on the row.
-    return `    <g transform="translate(25 ${y - 12})"><path ${paint} fill-rule="evenodd" d="${path}"/></g>
-    <text x="51" y="${y}" class="label">${escape(label)}</text>
-    <text x="455" y="${y}" class="value">${format(value)}</text>`;
+    // Value is right-anchored at 429, leaving the 439-455 box for the trailing
+    // icon. Icon box is 16px tall; -12 from the text baseline centres it.
+    return `    <text x="25" y="${y}" class="label">${escape(label)}</text>
+    <text x="429" y="${y}" class="value">${format(value)}</text>
+    <g transform="translate(439 ${y - 12})"><path ${paint} fill-rule="evenodd" d="${path}"/></g>`;
   })
   .join("\n");
 
