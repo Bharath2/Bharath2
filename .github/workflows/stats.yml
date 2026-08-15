@@ -2,7 +2,7 @@ name: Refresh stats card
 
 on:
   schedule:
-    - cron: "17 4,16 * * *"
+    - cron: "17 4 * * *"
   workflow_dispatch:
 
 permissions:
