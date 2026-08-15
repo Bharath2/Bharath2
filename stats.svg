@@ -1,0 +1,27 @@
+<svg width="480" height="204" viewBox="0 0 480 204"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Bharath2's GitHub stats">
+  <style>
+    .card { fill: #fffefe; stroke: #e4e2e2; }
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; }
+    .value { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; text-anchor: end; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #0d1117; stroke: #30363d; }
+      .title { fill: #58a6ff; }
+      .label, .value { fill: #c9d1d9; }
+    }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="479" height="203" rx="4.5"/>
+  <text x="25" y="35" class="title">Bharath2's GitHub Stats</text>
+    <text x="25" y="62" class="label">Total Stars Earned</text>
+    <text x="455" y="62" class="value">387</text>
+    <text x="25" y="88" class="label">Total Commits (past year)</text>
+    <text x="455" y="88" class="value">114</text>
+    <text x="25" y="114" class="label">Total Issues</text>
+    <text x="455" y="114" class="value">4</text>
+    <text x="25" y="140" class="label">Public Repos</text>
+    <text x="455" y="140" class="value">13</text>
+    <text x="25" y="166" class="label">Followers</text>
+    <text x="455" y="166" class="value">28</text>
+</svg>
